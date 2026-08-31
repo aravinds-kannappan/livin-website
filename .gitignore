@@ -8,3 +8,7 @@ dist
 vercel
 .vercel
 coverage
+.impeccable/review
+.agents
+.codex
+.impeccable
