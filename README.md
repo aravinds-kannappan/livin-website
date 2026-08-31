@@ -12,3 +12,6 @@ npm run dev
 ## Deploy
 
 The app is a standard Next.js project and is ready for Vercel.
+
+For a permanent deployment, import `aravinds-kannappan/livin-website` in
+Vercel. The included `vercel.json` pins the install, build, and dev commands.
